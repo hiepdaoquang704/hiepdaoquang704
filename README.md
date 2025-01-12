@@ -5,7 +5,8 @@ Machine Learning Engineer/ Data Science
 --------------------------------------
 
 I'm a senior student at Phenikaa University, majoring in Computer Science, which is my greatest passion. In the open-source world, I've carved out a virtual home on GitHub where I share and develop challenging and meaningful projects.
-I'm currently a Research Assistant at the Phenikaa Network and Intelligent Computing lab focusing on using Deep Reinforcement Learning to optimize system integration generative AI services. 🚀👨‍💻
+
+I'm currently is a Research Assistant at the Phenikaa Network and Intelligent Computing lab focusing on using Deep Reinforcement Learning to optimize system integration generative AI services. 🚀👨‍💻
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [hiepdaoquang704@gmail.com](mailto:hiepdaoquang704@gmail.com)
