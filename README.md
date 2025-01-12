@@ -10,7 +10,7 @@ I'm currently a Research Assistant at the Phenikaa Network and Intelligent Compu
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [hiepdaoquang704@gmail.com](mailto:hiepdaoquang704@gmail.com)
-* 🧠  I'm learning Deep Learning, Generative AI, Deep Reinforcement learning
+* 🧠  I'm learning Deep Learning, Generative AI, Deep Reinforcement Learning
 
 ### Skills
 
