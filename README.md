@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dao Quang Hiep
 ======================================================================================================================================
 
-Machine Learning Engineer/ Data Science
+Reinforcement Learning Engineer/ Research Assistant
 --------------------------------------
 
 I'm a senior student at Phenikaa University, majoring in Computer Science, which is my greatest passion. In the open-source world, I've carved out a virtual home on GitHub where I share and develop challenging and meaningful projects.
